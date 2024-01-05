@@ -2,7 +2,7 @@
 
 ![Alt text](./public/image.png)
 
-##Demo
+## Demo
 [Demo Fylo ](https://epixelab.vercel.app/)
 
 ```
