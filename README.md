@@ -3,7 +3,7 @@
 ![Alt text](./public/image.png)
 
 ## Demo
-[Demo Fylo ](https://epixelab.vercel.app/)
+[Demo Fylo ](https://fylo-va.vercel.app/)
 
 ```
 npm install
